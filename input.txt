@@ -1,0 +1,30 @@
+// Boolean literals
+true
+false
+
+// Integers
+123
+-456
+
+// Decimals (up to five decimal places)
+78.901
+-0.12345
+
+// Identifiers (only lowercase letters)
+variable
+anotheridentifier
+
+// Standard I/O keywords
+System.out.println
+System.in
+
+// Single-line comment
+// This is a single-line comment that should be ignored
+
+/* 
+   This is a multi-line comment.
+   It spans multiple lines.
+*/
+
+// Arithmetic operations
+a + b * c / d - e % f
